@@ -1,0 +1,10 @@
+{
+  "description": "Find Dhaka bus routes, stops, road construction updates, alternative routes, and estimated fares to plan journeys with less confusion and delay.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
